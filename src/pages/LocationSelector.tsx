@@ -37,7 +37,7 @@ export function LocationSelector({
       }} transition={{
         duration: 0.6
       }} className="mb-8 text-center">
-          <img src="/fornalha_logo.png" alt="Fornalha Pizzaria" className="mx-auto mb-6 w-48 md:w-64" />
+          <img src="/4.png" alt="Fornalha Pizzaria" className="mx-auto mb-6 w-48 md:w-64" />
           <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
             Bem-vindo à Fornalha Pizzaria
           </h1>
