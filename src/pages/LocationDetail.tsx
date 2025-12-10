@@ -133,7 +133,7 @@ export function LocationDetail({
         opacity: 1
       }} transition={{
         delay: 0.2
-      }} src="/fornalha_logo.png" alt="Fornalha Pizzaria" className="absolute right-4 top-4 w-24 md:w-32" />
+      }} src="/4.png" alt="Fornalha Pizzaria" className="absolute right-4 top-4 w-24 md:w-32" />
       </div>
 
       {/* Content */}
